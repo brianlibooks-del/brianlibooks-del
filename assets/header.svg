@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Abstract blue wave banner">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08152b"/><stop offset="1" stop-color="#173b65"/></linearGradient>
+    <linearGradient id="line" x2="1" y2="0"><stop stop-color="#42d6c4"/><stop offset="1" stop-color="#7aa8ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".56">
+    <path d="M-20 194C135 112 230 270 393 175S640 96 780 148s245 54 440-58"/>
+    <path d="M-20 211C135 129 230 287 393 192S640 113 780 165s245 54 440-58" opacity=".65"/>
+    <path d="M-20 228C135 146 230 304 393 209S640 130 780 182s245 54 440-58" opacity=".4"/>
+  </g>
+  <circle cx="1045" cy="74" r="70" fill="#42d6c4" opacity=".06"/>
+  <circle cx="1045" cy="74" r="39" fill="none" stroke="#42d6c4" opacity=".45"/>
+  <text x="70" y="112" fill="#f5f8ff" font-family="Georgia,serif" font-size="55">Hi, I'm Brian.</text>
+  <text x="72" y="159" fill="#b5d1eb" font-family="Arial,sans-serif" font-size="21">Curious about markets, interfaces, and useful tools.</text>
+</svg>
